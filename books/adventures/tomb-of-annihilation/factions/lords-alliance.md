@@ -1,0 +1,7 @@
+### Lords’ Alliance
+
+A number of cities and settlements banded together to form the Lords’ Alliance, a coalition that works actively to eliminate threats to their mutual safety and prosperity. The coalition is loose — some might even call it shaky. Alliance leaders push their own interests above counterparts from other cities, and operatives seek honor and glory for themselves and their own lords at the expense of less powerful members.
+
+A key figure in the Lords’ Alliance is Grand Duke Ulder Ravengard of Baldur’s Gate, a city with a vested interest in the affairs of Chult. The flag of Baldur’s Gate flies over the stronghold of Fort Beluarian, which is garrisoned by Flaming Fist mercenaries under the command of Ravengard’s vassal, Liara Portyr. If push came to shove, Ravengard would place the priorities of Baldur’s Gate above those of the Lord’s Alliance.
+
+Other Lords’ Alliance cities such as Waterdeep and Neverwinter have operatives in Port Nyanzaru, where they undermine the efforts of non-alliance powers such as Calimshan, Amn, and Tethyr to expand their control over Chult’s vast resources. Most of these representatives are open about their ties to the Lord’s Alliance and style themselves as ambassadors of their cities, but they also employ covert agents to undermine each other’s plans and carry out less savory tasks. The Lords’ Alliance sponsors mapping expeditions into the peninsula, with the aim of finding more treasures or mines it can plunder.

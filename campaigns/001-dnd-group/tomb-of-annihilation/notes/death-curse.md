@@ -1,0 +1,8 @@
+### Death Curse
+The Soulmonger was activated 20 days ago and remains active until it is destroyed. While the Soulmonger is active, the following effects are in play:
+
+-   Any humanoid on the planet that has been brought back from the dead begins to waste away. Its hit point maximum is reduced by 20 (1 for each day the Soulmonger has been active) and decreases by 1 every midnight until the Soulmonger is destroyed. If a humanoid’s hit point maximum drops to 0, it dies. Traveling to another world or plane does nothing to halt the wasting effect once it has begun.
+-   A humanoid whose hit point maximum is reduced can’t increase or restore it. This is true whether the creature’s hit point maximum is reduced by the Soulmonger or by some other life-draining effect, such as the touch of a wight, wraith, or similar creature.
+-   If a humanoid dies anywhere on the planet, its soul becomes trapped inside the Soulmonger. Only the destruction of the Soulmonger can free the trapped soul.
+-   Any spell that breathes life into the dead (including [revivify](https://www.dndbeyond.com/spells/revivify), [raise dead](https://www.dndbeyond.com/spells/raise-dead), [resurrection](https://www.dndbeyond.com/spells/resurrection), and [true resurrection](https://www.dndbeyond.com/spells/true-resurrection)) automatically fails if cast on a humanoid whose soul is either trapped in the Soulmonger or has been devoured by the atropal (see “[Soul Devouring](https://www.dndbeyond.com/sources/toa/introduction#SoulDevouring)” below).
+-   The Soulmonger does not affect the workings of [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead) spells or similar magic. The death curse has no effect on preexisting ghosts or spirits.

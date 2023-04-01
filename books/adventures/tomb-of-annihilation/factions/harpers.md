@@ -1,0 +1,5 @@
+### Harpers
+
+The Harpers are spellcasters and spies who covertly oppose any abuse of power, magical or otherwise. Working alone or in small cells, they gather information throughout Faerûn, analyze the political dynamics in each region or realm, and use what they uncover to help the weak, the poor, and the oppressed from behind the scenes. Harpers act openly only as a last resort.
+
+Artus Cimber, a former member of the Harpers, is hiding out in Chult. He possesses an artifact called the [Ring of Winter](https://www.dndbeyond.com/magic-items/21727-ring-of-winter), and other Harpers are concerned lest the ring fall into evil hands. To prevent that, a handful of Harper spies are combing Port Nyanzaru and Chult for clues to Artus’s whereabouts — ostensibly to protect the ring, but exactly what they’ll do when they find it is an open question. Magical efforts to locate Artus are futile, as the [Ring of Winter](https://www.dndbeyond.com/magic-items/21727-ring-of-winter) shields itself and its wearer against divination spells and scrying sensors.

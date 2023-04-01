@@ -1,0 +1,5 @@
+### Zhentarim
+
+The Zhentarim is an unscrupulous shadow network that seeks to expand its influence and power base throughout Faerûn. Its members pursue wealth and power through any means, though the public face of the organization appears much more benign — the Zhentarim provides the best mercenaries money can buy.
+
+The merchant princes of Port Nyanzaru hire Zhentarim guards to defend the city walls and Zhentarim mercenaries to protect hunting, lumbering, and mining operations in the jungle and foothills. The Black Network has used this wide-ranging access to the city to set up its own woodcutting camps and mining operations. It also mounts treasure-hunting expeditions. In addition, Black Network spies have learned that Artus Cimber is in Chult, and they’ve assembled teams to find the ex-Harper and wrest the [Ring of Winter](https://www.dndbeyond.com/magic-items/21727-ring-of-winter) from him.

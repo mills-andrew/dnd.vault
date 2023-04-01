@@ -1,0 +1,3 @@
+## Summary
+
+Eshek (NG male Chultan human [acolyte](https://www.dndbeyond.com/monsters/16763-acolyte) of Savras) stumbles up to the characters in the street and whispers, “Speak to the wise guardian of Orolunga, east of Mbala. She can direct you to that which you seek.” Then he collapses, [unconscious](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Unconscious). When he awakens moments later, Eshek has no memory of the last 12 hours aside from a driving need to find people matching the characters’ descriptions. He’s as puzzled by what just happened as the characters probably are, but he’ll help them however he can. At the very least, he knows where Mbala is from speaking to porters who’ve been to Camp Vengeance.

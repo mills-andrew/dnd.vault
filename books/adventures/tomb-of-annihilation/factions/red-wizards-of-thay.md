@@ -1,0 +1,3 @@
+### Red Wizards of Thay
+
+Red Wizards are in Chult to find and steal the Soulmonger for Szass Tam. They’ve occupied the Heart of Ubtao and are using it as a base. Their leader is Valindra Shadowmantle. She remains at the Heart of Ubtao while her Thayan minions comb the ruins of Omu for clues to the Soulmonger’s whereabouts. For more information on Valindra, see “[Heart of Ubtao](https://www.dndbeyond.com/sources/toa/the-land-of-chult#HeartofUbtao)."

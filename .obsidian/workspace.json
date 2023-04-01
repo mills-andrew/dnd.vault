@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "1213e9bb7350d1a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea40cde53b07883f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00d02d6b4b81f182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/adventures/tomb-of-annihilation/chapters/001.port-nyanzaru.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cd8411c2a2a5898",
+    "type": "split",
+    "children": [
+      {
+        "id": "824e18baf109e9de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc71d0117dcab26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "704e09cbc19017ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "715fbe0fff0c90fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "79fb3ee2b725c884",
+    "type": "split",
+    "children": [
+      {
+        "id": "894453f8331df154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae69df3ed2fffc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/adventures/tomb-of-annihilation/chapters/001.port-nyanzaru.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bbe5b5c573f055c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books/adventures/tomb-of-annihilation/chapters/001.port-nyanzaru.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f361e946c64a774f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0223b4020c71a7ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/adventures/tomb-of-annihilation/chapters/001.port-nyanzaru.md"
+              }
+            }
+          },
+          {
+            "id": "4137cd649a0178d9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "102547b3374575c2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a00bfd1efc6d4c55",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-sample-plugin:Sample Plugin": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-import-json:JSON/CSV Importer": false
+    }
+  },
+  "active": "00d02d6b4b81f182",
+  "lastOpenFiles": [
+    "books/adventures/tomb-of-annihilation/quests/collect-a-debt.md",
+    "books/adventures/tomb-of-annihilation/chapters/001.port-nyanzaru.md",
+    "books/adventures/tomb-of-annihilation/quests/create-a-distraction-at-fort-beluarian.md",
+    "books/adventures/tomb-of-annihilation/chapters/000.introduction.md",
+    "campaigns/001-dnd-group/tomb-of-annihilation/sessions/000.session.md",
+    "books/adventures/tomb-of-annihilation/quests/help-the-lords-alliance.md",
+    "books/adventures/tomb-of-annihilation/quests/save-an-innocent-man.md",
+    "books/adventures/tomb-of-annihilation/quests/seek-wisdom-at-orolunga.md",
+    "books/adventures/tomb-of-annihilation/Dramatis Personae.md",
+    "books/adventures/tomb-of-annihilation/quests/hunt-pirates.md",
+    "books/adventures/tomb-of-annihilation/quests/escort-a-priest-to-camp-vengeance.md",
+    "books/adventures/tomb-of-annihilation/quests/explore-the-aldani-basin.md",
+    "books/adventures/tomb-of-annihilation/quests/help-a-dyeing-man.md",
+    "books/adventures/tomb-of-annihilation/quests/find-artus-cimber.md",
+    "campaigns/001-dnd-group/tomb-of-annihilation/notes/death-curse.md",
+    "books/adventures/tomb-of-annihilation/quests/Save an Innocent Man.md",
+    "books/adventures/tomb-of-annihilation/quests/Seek Wisdom at Orolunga.md",
+    "books/adventures/tomb-of-annihilation/quests/Hunt Pirates.md",
+    "books/adventures/tomb-of-annihilation/quests/Help a Dyeing Man.md",
+    "books/adventures/tomb-of-annihilation/quests/Find Artus Cimber.md",
+    "books/adventures/tomb-of-annihilation/quests/Explore the Aldani Basin.md",
+    "books/adventures/tomb-of-annihilation/quests/Escort a Priest to Camp Vengeance.md",
+    "books/adventures/tomb-of-annihilation/quests/Create a Distraction at Fort Beluarian.md",
+    "books/adventures/tomb-of-annihilation/quests/Collect a Debt.md",
+    "books/adventures/tomb-of-annihilation/quests",
+    "campaigns/001-dnd-group/tomb-of-annihilation/Untitled",
+    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/Captain Edmund Blackwood.md",
+    "campaigns/001-dnd-group/tomb-of-annihilation/sessions/001.session.md",
+    "campaigns/001-dnd-group/tomb-of-annihilation/players/_assets/ufis.png",
+    "campaigns/001-dnd-group/tomb-of-annihilation/players/_assets",
+    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/Pasted image 20230401114011.png",
+    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/Pasted image 20230401114003.png",
+    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/skips-002.png",
+    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/skips-001.png",
+    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets",
+    "books/adventures/tomb-of-annihilation/backgrounds",
+    "books/adventures/tomb-of-annihilation/encounters",
+    "books/adventures/tomb-of-annihilation/factions",
+    "books/adventures/tomb-of-annihilation/locations/port-nyanzaru",
+    "books/adventures/tomb-of-annihilation/locations",
+    "campaigns/001-dnd-group/tomb-of-annihilation/_assets/pm02.jpg",
+    "campaigns/001-dnd-group/tomb-of-annihilation/_assets/pm01.jpg",
+    "books/adventures/tomb-of-annihilation/npcs",
+    "campaigns/001-dnd-group/tomb-of-annihilation/_assets/0202.jpg",
+    "campaigns/001-dnd-group/tomb-of-annihilation/_assets/0317a.jpg",
+    "campaigns/001-dnd-group/tomb-of-annihilation/_assets/0317.jpg",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,3 @@
+## Summary
+
+Lerek Dashlynd (LN male Illuskan human [spy](https://www.dndbeyond.com/monsters/17021-spy)), an agent of the Lords’ Alliance, offers to trade a sailing ship for an accurate map of Chult that shows the exact location of the ruins of Nangalore and Orolunga. Lerek represents wealthy Waterdhavian interests, and the offer is genuine. If the characters present such a map, Lerek has a cleric cast [augury](https://www.dndbeyond.com/spells/augury) before agreeing to buy it, to make sure he’s not buying a fake. Once he’s convinced that the map is genuine, Lerek arranges to have the promised ship arrive in 10 days.
