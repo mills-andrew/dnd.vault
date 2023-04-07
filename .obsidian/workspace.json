@@ -23,11 +23,9 @@
             "id": "63a38f997b8ad574",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "books/adventures/tomb-of-annihilation/npcs/azaka-stormfang.md",
-                "mode": "preview",
-                "source": true
+                "file": "books/adventures/tomb-of-annihilation/_assets/0210a.jpg"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/adventures/tomb-of-annihilation/npcs/azaka-stormfang.md",
+                "file": "books/adventures/tomb-of-annihilation/_assets/0210a.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/adventures/tomb-of-annihilation/npcs/azaka-stormfang.md",
+                "file": "books/adventures/tomb-of-annihilation/_assets/0210a.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/adventures/tomb-of-annihilation/npcs/azaka-stormfang.md"
+                "file": "books/adventures/tomb-of-annihilation/_assets/0210a.jpg"
               }
             }
           },
@@ -205,8 +203,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63a38f997b8ad574",
+  "active": "bcc71d0117dcab26",
   "lastOpenFiles": [
+    "codex/tokens/weretiger-token.png",
+    "codex/tokens/npc1.png",
+    "books/adventures/tomb-of-annihilation/_assets/0210.jpg",
+    "books/adventures/tomb-of-annihilation/_assets/0202.jpg",
+    "books/adventures/tomb-of-annihilation/_assets/0202a.jpg",
+    "books/adventures/tomb-of-annihilation/maps/merchant-princes-villa.md",
+    "books/adventures/tomb-of-annihilation/maps/port-nyanzaru.md",
+    "books/adventures/tomb-of-annihilation/maps/chult.md",
+    "books/adventures/tomb-of-annihilation/npcs/azaka-stormfang.md",
     "codex/sounds/Untitled.md",
     "codex/classes/barbarian.md",
     "codex/sounds",
@@ -226,7 +233,6 @@
     "books/adventures/tomb-of-annihilation/npcs/kwayothe.md",
     "books/adventures/tomb-of-annihilation/npcs/jobal.md",
     "books/adventures/tomb-of-annihilation/npcs/jessamine.md",
-    "books/adventures/tomb-of-annihilation/npcs/azaka-stormfang.md",
     "books/adventures/tomb-of-annihilation/npcs/artus-cimber.md",
     "books/adventures/tomb-of-annihilation/monsters/ras-nsi.md",
     "books/adventures/tomb-of-annihilation/npcs/ifan-talroa.md",
@@ -236,15 +242,7 @@
     "campaigns/001-dnd-group/tomb-of-annihilation/players/dani-moonshadow.md",
     "campaigns/001-dnd-group/tomb-of-annihilation/npcs/skips-hodgepodge.md",
     "campaigns/001-dnd-group/tomb-of-annihilation/encounters/test.md",
-    "campaigns/001-dnd-group/tomb-of-annihilation/sessions/000.session.md",
-    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/edmund-blackwood.md",
-    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/tom.md",
-    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/tim.md",
     "codex/tokens/image-001 - Copy.png",
-    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/1581111423-93802166.png",
-    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/1581111423-93802166.jpeg",
-    "campaigns/001-dnd-group/tomb-of-annihilation/npcs/_assets/SmartSelect_20230406_164926_Discord.jpg",
-    "books/adventures/tomb-of-annihilation/npcs/_assets/Pasted image 20230406021914.png",
     "codex/magic-items/_assets",
     "codex/items",
     "codex/map-icons",
