@@ -1,7 +1,50 @@
 {
-  "players": [],
-  "parties": [],
-  "defaultParty": null,
+  "players": [
+    {
+      "note": "timberleigh",
+      "path": "campaigns/001-dnd-group/tomb-of-annihilation/players/timberleigh.md",
+      "name": "Brittany",
+      "ac": 17,
+      "hp": 23,
+      "level": 2,
+      "modifier": 2,
+      "player": true,
+      "marker": "default"
+    },
+    {
+      "note": "ufis",
+      "path": "campaigns/001-dnd-group/tomb-of-annihilation/players/ufis.md",
+      "name": "Ufis",
+      "ac": 19,
+      "hp": 13,
+      "level": 1,
+      "modifier": 1,
+      "player": true,
+      "marker": "default"
+    },
+    {
+      "note": "dani-moonshadow",
+      "path": "campaigns/001-dnd-group/tomb-of-annihilation/players/dani-moonshadow.md",
+      "name": "Dani Moonshadow",
+      "ac": 14,
+      "hp": 9,
+      "level": 1,
+      "modifier": 1,
+      "player": true,
+      "marker": "default"
+    }
+  ],
+  "parties": [
+    {
+      "name": "Party 1",
+      "players": [
+        "Brittany",
+        "Ufis",
+        "Dani Moonshadow"
+      ]
+    }
+  ],
+  "defaultParty": "Party 1",
   "homebrew": [],
   "statuses": [
     {
@@ -75,17 +118,17 @@
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": false,
-  "leafletIntegration": false,
-  "playerMarker": "default",
-  "monsterMarker": "default",
+  "leafletIntegration": true,
+  "playerMarker": "Barbarian",
+  "monsterMarker": "Dragon",
   "state": {
     "creatures": [],
     "state": false,
-    "name": null,
+    "name": "Example 1",
     "round": 1,
     "logFile": ""
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,

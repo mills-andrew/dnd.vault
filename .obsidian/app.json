@@ -3,7 +3,7 @@
   "attachmentFolderPath": "./_assets",
   "showLineNumber": true,
   "spellcheck": false,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showInlineTitle": false

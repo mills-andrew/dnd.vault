@@ -1,0 +1,97 @@
+---
+  name: Octopus
+  size: Small
+  type: beast
+  subtype: 
+  alignment: unaligned
+  ac: 12
+  hp: 3
+  hit_dice: 1d6 + -1
+  speed: 5 ft., swim 30 ft.
+  stats: 
+  - 4
+  - 15
+  - 11
+  - 3
+  - 10
+  - 4
+  saves: 
+  skillsaves: 
+  - perception: 2
+  - stealth: 4
+  damage_vulnerabilities: 
+  damage_resistances: 
+  damage_immunities: 
+  condition_immunities: 
+  senses: darkvision 30 ft., passive Perception 12
+  languages: 
+  cr: 0
+  traits: 
+  - name: Hold Breath
+    desc: "While out of water, the octopus can hold its breath for 30 minutes."
+    attack_bonus: 0
+  - name: Underwater Camouflage
+    desc: "The octopus has advantage on Dexterity (Stealth) checks made while underwater."
+    attack_bonus: 0
+  - name: Water Breathing
+    desc: "The octopus can breathe only underwater."
+    attack_bonus: 0
+  actions:
+  - name: Tentacles
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can&#x27;t use its tentacles on another target."
+    attack_bonus: 4
+  - name: Ink Cloud (Recharges after a Short or Long Rest)
+    desc: "A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
+    attack_bonus: 0
+  legendary_actions:
+---
+
+```statblock
+  forceColumns: true
+  image: [[Wikilink To Image]]
+  name: Octopus
+  size: Small
+  type: beast
+  subtype: 
+  alignment: unaligned
+  ac: 12
+  hp: 3
+  hit_dice: 1d6 + -1
+  speed: 5 ft., swim 30 ft.
+  stats: 
+  - 4
+  - 15
+  - 11
+  - 3
+  - 10
+  - 4
+  saves: 
+  skillsaves: 
+  - perception: 2
+  - stealth: 4
+  damage_vulnerabilities: 
+  damage_resistances: 
+  damage_immunities: 
+  condition_immunities: 
+  senses: darkvision 30 ft., passive Perception 12
+  languages: 
+  cr: 0
+  traits: 
+  - name: Hold Breath
+    desc: "While out of water, the octopus can hold its breath for 30 minutes."
+    attack_bonus: 0
+  - name: Underwater Camouflage
+    desc: "The octopus has advantage on Dexterity (Stealth) checks made while underwater."
+    attack_bonus: 0
+  - name: Water Breathing
+    desc: "The octopus can breathe only underwater."
+    attack_bonus: 0
+  actions:
+  - name: Tentacles
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can&#x27;t use its tentacles on another target."
+    attack_bonus: 4
+  - name: Ink Cloud (Recharges after a Short or Long Rest)
+    desc: "A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
+    attack_bonus: 0
+  legendary_actions:
+```

@@ -1,10 +1,10 @@
 {
   "jsonName": "alias",
   "jsonNamePath": false,
-  "folderName": "rules/spells",
+  "folderName": "codex/spells",
   "topField": "",
   "notePrefix": "",
   "noteSuffix": "",
-  "handleExistingNote": 0,
+  "handleExistingNote": 1,
   "forceArray": true
 }

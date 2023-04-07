@@ -6,11 +6,11 @@ The Old City is run by “beggar princes” in a mocking parallel to the merchan
 
 The Old City is run down but it isn’t a slum or a haven for thieves. Most of the residents are lower-class laborers or struggling artisans who can’t afford the higher rents of homes inside the city walls.
 
-#### [](https://www.dndbeyond.com/sources/toa/port-nyanzaru#1BeggarsPalaces)1. Beggars’ Palaces
+#### 1. Beggars’ Palaces
 
 The Beggars’ Palaces are the two largest ziggurats of the Old City. Shops and tenements of bamboo are jammed onto the terraces of the ziggurats in wild profusion. The upper levels are cleaner and less crowded than those near street level. A narrow wooden bridge connects the upper levels above the press and noise of the street.
 
-#### [](https://www.dndbeyond.com/sources/toa/port-nyanzaru#2ExecutionersRun)2. Executioner’s Run
+#### 2. Executioner’s Run
 
 The road through the Old City splits around a rectangular, stone-lined pit 15 feet deep, 50 feet wide, and 200 feet long. The original Amnian residents built it as an arena for a highly competitive ball game, and it still provides cheap entertainment for the locals. [Velociraptors](https://www.dndbeyond.com/monsters/17243-velociraptor) (see [appendix D](https://www.dndbeyond.com/sources/toa/monsters-and-npcs#Velociraptor)), [panthers](https://www.dndbeyond.com/monsters/16976-panther), or other hungry beasts (a juvenile [allosaurus](https://www.dndbeyond.com/monsters/17087-allosaurus) is a guaranteed crowd pleaser) are set loose in the pit, then convicted criminals are dropped in at one end. Any criminals who make it alive through the gauntlet of carnivores to the far end of the pit can scramble up knotted ropes and win their freedom, along with the adulation of the crowd. Spectators line the walls for these spectacles — including representatives from every level of Port Nyanzaru society, not just residents of the Old City. Bets are placed on which criminals will survive, which will die, how far runners will get before a beast brings them down, and how many kills each animal will rack up.
 
@@ -18,7 +18,7 @@ A handful of Chultans have become celebrities by surviving multiple dashes throu
 
 Occasionally an animal manages to leap or scramble out of the pit and runs amok through the terrified crowd. Moments of such high peril provide a perfect opportunity for bystanders to become heroes in the city and earn favors from the merchant princes.
 
-#### [](https://www.dndbeyond.com/sources/toa/port-nyanzaru#3RefusePit)3. Refuse Pit
+#### 3. Refuse Pit
 
 An enormous sinkhole serves as the city’s garbage dump. Every type of refuse gets tossed here, up to and including dead bodies. It’s a festering scar of garbage, rancid water, and vermin. Rats, insects, and ravens abound. [Ghouls](https://www.dndbeyond.com/monsters/16872-ghoul) are sometimes seen prowling through the pit in search of fresh corpses.
 
